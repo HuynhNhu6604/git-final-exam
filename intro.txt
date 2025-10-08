@@ -1,0 +1,5 @@
+Tôi là Nguyễn Thị Huỳnh Như.
+Tôi đang học về Git và quản lý mã nguồn.
+Tôi yêu thích lập trình và học hỏi công nghệ mới.
+Sở thích: đọc sách, nghe nhạc, du lịch.
+Kỹ năng: Git, HTML, teamwork.
