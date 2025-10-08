@@ -1,0 +1,6 @@
+## Tính năng mới
+- Theo dõi tiến độ học tập.
+- Lưu nhật ký mỗi ngày.
+- Tự động đồng bộ lên GitHub.
+- Thống kê thời gian học.
+- Gợi ý nội dung ôn tập tiếp theo.
